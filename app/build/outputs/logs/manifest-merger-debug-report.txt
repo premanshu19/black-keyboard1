@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:1:1-29:12
+	package
+		ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:2:9-46
+		INJECTED from F:\E-Logger14\app\src\main\AndroidManifest.xml
+		INJECTED from F:\E-Logger14\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:3:11-5:40
+	android:targetSdkVersion
+		ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:5:9-37
+		INJECTED from F:\E-Logger14\app\src\main\AndroidManifest.xml
+		INJECTED from F:\E-Logger14\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:4:9-34
+		INJECTED from F:\E-Logger14\app\src\main\AndroidManifest.xml
+		INJECTED from F:\E-Logger14\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_LOGS
+ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.READ_CONTACTS
+ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:9:22-69
+uses-permission#android.permission.READ_SMS
+ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.INTERNET
+ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.GET_TASKS
+ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:14:5-72
+	android:name
+		ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:14:22-69
+uses-permission#com.android.browser.permission.READ_HISTORY_BOOKMARKS
+ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:15:6-94
+	android:name
+		ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:15:23-91
+application
+ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:17:5-28:19
+	android:label
+		ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:17:18-48
+service#com.example.android.elogger.SoftKeyboard
+ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:18:9-24:19
+	android:permission
+		ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:19:17-74
+	android:name
+		ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:18:18-73
+intent-filter#android.view.InputMethod
+ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:20:13-22:29
+action#android.view.InputMethod
+ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:21:17-67
+	android:name
+		ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:21:25-64
+meta-data#android.view.im
+ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:23:13-88
+	android:resource
+		ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:23:55-85
+	android:name
+		ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:23:24-54
+service#com.example.android.elogger.RSSPullService
+ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:25:10-26:19
+	android:name
+		ADDED from F:\E-Logger14\app\src\main\AndroidManifest.xml:25:19-76

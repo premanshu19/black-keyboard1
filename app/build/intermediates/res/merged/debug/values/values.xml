@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/F:/E-Logger14/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="candidate_background">#bbffffff</color>
+    <color name="candidate_normal">#FF000000</color>
+    <color name="candidate_other">#ff808080</color>
+    <color name="candidate_recommended">#FFE35900</color>
+    <!-- From: file:/F:/E-Logger14/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="candidate_font_height">16sp</dimen>
+    <dimen name="candidate_vertical_padding">6sp</dimen>
+    <dimen name="key_height">50dip</dimen>
+    <!-- From: file:/F:/E-Logger14/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="ime_name">Black Keyboard</string>
+    <string name="label_go_key">Go</string>
+    <string name="label_next_key">Next</string>
+    <string name="label_send_key">Send</string>
+    <string name="word_separators">\u0020.,;:!?\n()[]*&amp;@{}/&lt;>_+=|"</string>
+</resources>
